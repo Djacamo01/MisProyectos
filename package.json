@@ -2,23 +2,22 @@
   "name": "portafolio-js-donald-jacamo",
   "version": "1.0.0",
   "description": "Mi Portafolio Personal",
-  "source": "src/index.html",
-  "homepage": "https://{Djacamo01}.github.io/{MisProyectos}",
+  "homepage": "https://djacamo01.github.io/MisProyectos",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{Djacamo01}.github.io/{MisProyectos}'",
+    "build-gh": "parcel build --public-url 'https://djacamo01.github.io/MisProyectos'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/Djacamo01/portafolio-js-donald-jacamo.git"
   },
-  "author": "Microsoft",
+  "author": "Donald Jacamo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+    "url": "https://github.com/Djacamo01/portafolio-js-donald-jacamo/issues"
   },
   "dependencies": {
     "react": "^18.2.0",
@@ -33,7 +32,6 @@
     "gh-pages": "^4.0.0",
     "html-webpack-plugin": "^5.5.0",
     "parcel": "^2.7.0",
-    "prettier": "^2.7.1",
-    "process": "^0.11.10"
+    "prettier": "^2.7.1"
   }
 }
