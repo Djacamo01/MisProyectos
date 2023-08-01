@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Skills.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Encriptador OracleNext Alura",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Creado con el apoyo de Oracle One y Alura, este proyecto permite encriptar y desencriptar mensajes de manera divertida. 🔐",
+    url: "https://github.com/Djacamo01/Encriptador-OracleNext-Alura",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Hotel Alura ONE Alura",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Gracias al respaldo de Oracle One y Alura, desarrollé este sitio web para un hotel imaginario con diseño moderno y funcionalidades interactivas. 🏨",
+    url: "https://github.com/Djacamo01/HotelAlura-ONE-Alura",
   },
   {
-    title: "My Resume Site",
+    title: "Conversor Moneda ONE Alura",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Con el apoyo de Oracle One y Alura, creé este conversor de monedas que permite realizar conversiones rápidas y precisas. 💱",
+    url: "https://github.com/Djacamo01/Conversor-Moneda-ONE-Alura",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Foro Alura ONE Alura",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Gracias a Oracle One y Alura, diseñé y desarrollé este foro interactivo donde los usuarios pueden compartir sus conocimientos y experiencias. 🗣️",
+    url: "https://github.com/Djacamo01/ForoALura-ONE-Alura",
   },
 ];
 

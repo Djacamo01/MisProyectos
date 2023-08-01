@@ -37,10 +37,11 @@ section img.background {
   height: 100%;
   left: 50%;
   object-fit: cover;
+  object-position: center 38%;
   pointer-events: none;
   position: absolute;
   top: 0;
-  transform: translate(-50%, 0);
+  transform: translate(-50%, 0%);
   width: 100vmax;
   z-index: -1;
 }
@@ -90,7 +91,7 @@ li {
 }
 
 li::marker {
-  color: #4e567e;
+  color: #2af7db;
 }
 
 a {
@@ -99,7 +100,7 @@ a {
 }
 
 a:hover {
-  color: #4e567e;
+  color: #2a9ee0;
 }
 
 .container {
