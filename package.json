@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Djacamo01/portafolio-js-donald-jacamo.git"
+    "url": "git+https://github.com/Djacamo01/MisProyectos.git"
   },
   "author": "Donald Jacamo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Djacamo01/portafolio-js-donald-jacamo/issues"
+    "url": "https://github.com/Djacamo01/MisProyectos/issues"
   },
   "dependencies": {
     "react": "^18.2.0",
