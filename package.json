@@ -1,13 +1,13 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "portafolio-js-donald-jacamo",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "Mi Portafolio Personal",
   "source": "src/index.html",
-  "homepage": "http://{Djacamo01}.github.io/{MisProyectos}",
+  "homepage": "https://{Djacamo01}.github.io/{MisProyectos}",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'http://{Djacamo01}.github.io/{MisProyectos}'",
+    "build-gh": "parcel build --public-url 'https://{Djacamo01}.github.io/{MisProyectos}'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
